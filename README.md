@@ -1,6 +1,6 @@
 # Setting a gas price threshold on Chainlink Automation upkeeps
 
-This project provides a script you can use to configure and set a maximum gas price for your Automation upkeep.
+This project provides a script you can use to configure and set a maximum gas price for your Automation upkeep. 
 
 ## Installation 
  
