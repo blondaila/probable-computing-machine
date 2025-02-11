@@ -13,7 +13,7 @@ To set up the project, follow these steps:
 1. Navigate to the directory for this script: 
    ```bash 
    cd automation-gas-threshold
-   ```
+   ``` 
 1. Install the required dependencies: 
 
    ```bash
