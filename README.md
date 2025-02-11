@@ -30,7 +30,7 @@ To set up the project, follow these steps:
 
 1.  Within the `offchainConfig` variable, set your `maxGasPrice` in wei. Do not use 
     quotation marks around the value you set for `maxGasPrice`. If this string
-    is formatted incorrectly, the feature does not work.
+    is formatted incorrectly, the feature does not work. 
 
     `{"maxGasPrice":2000000000}`
 
