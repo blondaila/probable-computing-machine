@@ -1,7 +1,7 @@
 const { ethers } = require('ethers');
 const cbor = require('cbor');
 
-// Replace with your own provider
+// Replace with your own
 const provider = new ethers.providers.JsonRpcProvider('YOUR_RPC_URL');
 const privateKey = 'YOUR_PRIVATE_KEY'; // Replace with your wallet private key
 const wallet = new ethers.Wallet('0x...privateKey', provider);
