@@ -28,7 +28,7 @@ To set up the project, follow these steps:
     - YOUR_PRIVATE_KEY: Your wallet's private key
     - YOUR_UPKEEP_ID: The ID of the Automation upkeep you want to configure.
 
-1.  Within the `offchainConfig` variable, set your `maxGasPrice` in wei. Do not use
+1.  Within the `offchainConfig` variable, set your `maxGasPrice` in wei. Do not use 
     quotation marks around the value you set for `maxGasPrice`. If this string
     is formatted incorrectly, the feature does not work.
 
