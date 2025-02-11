@@ -5,7 +5,7 @@ This project provides a script you can use to configure and set a maximum gas pr
 ## Installation
 
 To set up the project, follow these steps:
-
+ 
 1. Clone the repository:
    ```bash
    git clone https://github.com/smartcontractkit
