@@ -11,7 +11,7 @@ To set up the project, follow these steps:
    git clone https://github.com/smartcontractkit
    ```
 1. Navigate to the directory for this script:
-   ```bash
+   ```bash 
    cd automation-gas-threshold
    ```
 1. Install the required dependencies: 
