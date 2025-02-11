@@ -14,7 +14,7 @@ To set up the project, follow these steps:
    ```bash 
    cd automation-gas-threshold 
    ```
-1. Install the required dependencies: 
+1. Install the required dependencies:  
 
    ```bash
    npm install
