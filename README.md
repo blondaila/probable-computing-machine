@@ -10,7 +10,7 @@ To set up the project, follow these steps:
    ```bash
    git clone https://github.com/smartcontractkit
    ```
-1. Navigate to the directory for this script:
+1. Navigate to the directory for this script :
    ```bash
    cd automation-gas-threshold
    ```
