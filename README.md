@@ -22,7 +22,7 @@ To set up the project, follow these steps:
 
 ## Usage
 
-1.  Set the following variables:
+1.  Set the following variables: 
 
     - YOUR_RPC_URL: The RPC URL for your provider (such as Alchemy or Infura)
     - YOUR_PRIVATE_KEY: Your wallet's private key
